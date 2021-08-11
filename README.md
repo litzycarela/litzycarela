@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @litzycarela
-- 👀 I’m interested in lnaguage learning, gamification, machine learning, and AI.
+- 👀 I’m interested in lanaguage learning, gamification, machine learning, and AI.
 - 🌱 I’m currently learning Python, C#, and Java.
 - 💞️ I’m looking to collaborate on anything really. I'm super new to coding in general and am open to any learning experience. Also if someone can walk me through how to use GitHub I would really appreciate it.
 - 📫 Feel free to reach me on LinkedIn or Twitter.
