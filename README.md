@@ -35,33 +35,40 @@ I blend a technical background with a strong teaching and UX mindset, which make
 ## 📚 Example Projects
 _(More examples will be added soon as I publish work.)_
 
-### 🎙 Podcast Production Assistant GPT
-A Custom GPT that guides users from idea → planning → scripting → recording → editing → publishing → promotion.
+### 🔍 SEO Content Strategy & Optimization GPT
 
-Includes:
-full prompt library
-structured workflow
-step logic
-branded tone
-user documentation
+A Custom GPT designed to guide users through end-to-end SEO workflows, including keyword research, content planning, on-page optimization, internal linking strategy, and SERP-driven content outlines.
 
-### 📝 Lesson Planner GPT
+This assistant helps users:
+- identify ranking opportunities,
+- create SEO briefs,
+- optimize blog posts step-by-step,
+- and repurpose content for multiple channels in a consistent, brand-aligned voice.
 
-Helps educators plan lessons in sequenced steps with pacing guidance, level adjustments, and structured outputs.
+Built with multi-step reasoning logic, an adaptable tone, and clear explanations to support both beginners and advanced users.
 
-### 📂 Digital Organization Assistant
+### 🗂 Digital Organization Assistant (Email + Google Drive Cleanup GPT)
+A GPT workflow that helps users create structure in their digital workspace — including inbox cleanup, folder architecture, naming conventions, and zero-inbox habits.
+Provides step-by-step guidance for building and maintaining an organized digital environment.
 
-AI agent that guides users through inbox cleanup, folder structuring, and ongoing workflow habits.
+### 🤖 UseMotion AI Employee Setup Assistant
+A GPT that teaches users how to set up AI “employees” inside the UseMotion platform.
+Covers task automation, recurring workflows, calendar logic, and efficiency optimizations in a supportive, easy-to-follow tone.
 
-### 💼 Experience Snapshot
+### 🧑‍🏫 ESL Lesson Planner & Teaching Assistant GPT
+A teaching-focused GPT that helps instructors plan English lessons, identify student weaknesses, and build clear lesson flows based on CEFR level.
+Includes structured reasoning steps, warm teacher-like tone, and adaptive scaffolding.
 
-AI Workflow & Prompt Engineering — independent projects
-Technology Trainer — Austin Community College
-Online ESL Instructor — Preply
-Software Testing & AI Support — volunteer work
-Software Engineering Intern — Microsoft (Defender for Cloud)
-Explore Intern — Microsoft Azure Sentinel
+### 🧩 Custom GPT for SaaS Support & Onboarding
+A model designed to help SaaS users onboard smoothly by answering product questions, walking users through setup, and offering supportive troubleshooting steps based on real-world user flows.
 
+## 💼 Experience Snapshot
+- AI Workflow & Prompt Engineering — independent projects
+- Technology Trainer — Austin Community College
+- Online ESL Instructor — Preply
+- Software Testing & AI Support — volunteer work
+- Software Engineering Intern — Microsoft (Defender for Cloud)
+- Explore Intern — Microsoft Azure Sentinel
 Blend of tech, teaching, and user-focused design.
 
 ## 📫 Connect With Me
