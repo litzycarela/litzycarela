@@ -33,7 +33,7 @@ I blend a technical background with a strong teaching and UX mindset, which make
 - React/TypeScript experience (Microsoft internships)
 
 ## 📚 Example Projects
-(More examples will be added soon as I publish work.)
+_(More examples will be added soon as I publish work.)_
 
 ### 🎙 Podcast Production Assistant GPT
 A Custom GPT that guides users from idea → planning → scripting → recording → editing → publishing → promotion.
